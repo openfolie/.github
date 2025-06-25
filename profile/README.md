@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="200" src="https://cdn.discordapp.com/attachments/1367149397074509896/1384266563074523286/d71f0655-fc82-4a34-989c-8545ae780d7d.jpeg?ex=6851ce33&is=68507cb3&hm=492d2efdc6c8189ae8da424a811be73b7d3c0f420d377d31701c8bb959f98cd8&" alt="openfolie logo">
+<img height="200" src="https://github.com/user-attachments/assets/9440af66-82e0-42af-b5d5-7a10396c7a6b" alt="openfolie logo">
 
 # openfolie.
 
