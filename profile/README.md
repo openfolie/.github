@@ -44,5 +44,6 @@ Our work lives here as prototypes, systems experiments, and research notes.
 ---
 
 <p align="center">
-  contact: <a href="mailto:hello@openfolie.org">hello@openfolie.org</a>, <a href="mailto:saurya.gur@openfolie.org">saurya.gur@openfolie.org</a>
+  contact: <a href="mailto:hello@openfolie.org">hello@openfolie.org</a>, <a href="mailto:saurya.gur@gmail.com">saurya.gur@gmail.com</a>
 </p>
+
