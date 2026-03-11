@@ -1,28 +1,48 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e9ef209-1a7e-47ff-b5c7-18424dc68a5a" height="350"/>
+</p>
 
-<img height="200" src="https://github.com/user-attachments/assets/9440af66-82e0-42af-b5d5-7a10396c7a6b" alt="openfolie logo">
+<h1 align="center">openfolie.</h1>
 
-# openfolie.
+<p align="center">
+AI safety · applied research · experimental systems
+<br/>
+<i>For curiosity. For humanity.</i>
+</p>
 
-> _Monkey Business_
-
-![Status](https://img.shields.io/badge/status-chaotic%20neutral-blueviolet?style=flat-square)
-![License](https://img.shields.io/badge/license-WTFPL-black?style=flat-square)
-![Built By](https://img.shields.io/badge/built%20by-Saurya%20&%20Aayush-brown?style=flat-square)
-
-openfolie is for students everywhere who love coding, chaos, and creating ridiculous projects. We’re here to have fun, break things, and learn along the way.
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Contribute%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/openfolie)
-[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-purple?style=for-the-badge&logo=discord)](https://discord.gg/aYWvkexAja)
-[![Twitter](https://img.shields.io/badge/Follow%20us%20on-Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/sauryagur)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-AI%20Safety-lightgrey"/>
+  <img src="https://img.shields.io/badge/research-Experimental%20Systems-lightgrey"/>
+  <img src="https://img.shields.io/badge/status-Research%20in%20Progress-lightgrey"/>
+</p>
 
 ---
 
+openfolie is an independent student-led research collective.
 
-_An initiative by [Saurya Gur](https://linkedin.com/in/sauryagur) and [Aayush Bindal](https://www.linkedin.com/in/aayush-bindal/)._
+We investigate the safety, behavior, and design of intelligent systems,  
+with a focus on experimental architectures and applied research.
+
+Our work lives here as prototypes, systems experiments, and research notes.
+
+---
+
+### areas of exploration
+
+• AI safety and alignment  
+• experimental AI systems  
+• autonomous and agentic models  
+• training and evaluation methods  
+• research prototypes
+
+---
+
+<p align="center">
+  work in progress.
+</p>
+
+---
+
+<p align="center">
+  contact: <a href="mailto:hello@openfolie.org">hello@openfolie.org</a>, <a href="mailto:saurya.gur@openfolie.org">saurya.gur@openfolie.org</a>
+</p>
